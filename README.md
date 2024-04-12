@@ -21,9 +21,6 @@
  </div>
  
 <div align="center"> 
-  <a href="abdulrahmanamr348@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/abdelrahman-amr-729400204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
