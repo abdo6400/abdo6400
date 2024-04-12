@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **.Net, AWS**
+ 🌱 I’m currently learning **.Net, FlutterFlow , AWS**
 
 💬 Ask me about **Flutter, Python, Firebase... or anything [here](https://github.com/abdo6400/abdo6400/issues)**
 
