@@ -16,7 +16,7 @@
 
 💬 Ask me about **Flutter, Python, Firebase... or anything [here](https://github.com/abdo6400/abdo6400/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Good advice **Do not stop learn (Always Search)**
 
  </div>
  
