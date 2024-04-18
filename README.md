@@ -48,11 +48,39 @@
 
 <hr/>
 
+<hr/>
+
+<h2 align="center">⚡ Skills ⚡</h2>
+<br>
+<div align=center>
+    dart
+    Flutter
+    Firebase
+    sql / Hive
+    restful Api
+    Java
+    Data structure
+    GraphQl
+    problem solving
+    Clean Architecture
+    Software Design Pattern
+    algorithms
+    Object-Oriented Programming
+    Notifications
+    ci/cd
+    git/Github
+    Google Maps
+    BLoc / provider statemangment
+    FlutterFlow
+    Dio/http
+</div>
+
 <h2 align="center">⚡ Projects⚡</h2>
 <br>
 <div align=center>
  
 </div>
+
 
 <br/><br/>
 
