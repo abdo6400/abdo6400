@@ -79,7 +79,8 @@
 <br>
 <div align=center>
  <a href="https://play.google.com/store/apps/details?id=com.addustor.addustor_project" target="_blank">
-    ![proimg](https://github.com/abdo6400/abdo6400/assets/84652350/1a66480c-db35-4909-ad0a-6e423d232cd6)
+      <img src="![proimg](https://github.com/abdo6400/abdo6400/assets/84652350/1a66480c-db35-4909-ad0a-6e423d232cd6)" />
+    
   </a>
     <a href="https://www.linkedin.com/in/abdelrahman-amr-729400204/" target="_blank">
     
