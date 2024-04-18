@@ -92,8 +92,8 @@
  <a href="https://play.google.com/store/apps/details?id=com.sadad.sadad" target="_blank">
    <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e86f9519-8421-4f55-835b-4ac97cfe6d20" alt="sadadproimg" style="width: 100%;">
   </a>
-   <a href="(https://github.com/abdo6400/JamalaShoppingApp_using_flutter)" target="_blank">
-   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e5de7a32-b106-4894-8663-2fe9df2a9def" alt="sadadproimg" style="width: 100%;">
+   <a href="https://github.com/abdo6400/JamalaShoppingApp_using_flutter" target="_blank">
+   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e5de7a32-b106-4894-8663-2fe9df2a9def" alt="jamalaproimg" style="width: 100%;">
   </a>
 </div>
 
