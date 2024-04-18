@@ -77,22 +77,23 @@
 
 <h2 align="center">⚡ Projects⚡</h2>
 <br>
-<div align=center>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-content: center;">
    <a href="https://play.google.com/store/apps/details?id=com.addustor.addustor_project" target="_blank">
-      ![proimg](https://github.com/abdo6400/abdo6400/assets/84652350/1a66480c-db35-4909-ad0a-6e423d232cd6)
+      <img src="https://github.com/abdo6400/abdo6400/assets/84652350/1a66480c-db35-4909-ad0a-6e423d232cd6" alt="proimg" style="width: 100%;">
   </a>
-    <a href="(https://play.google.com/store/apps/details?id=com.albasheq.albasheq)" target="_blank">
-    ![proimg](https://github.com/abdo6400/abdo6400/assets/84652350/0ad8a2a9-1558-426e-92e6-28f1a0bcdad2)
+    <a href="https://play.google.com/store/apps/details?id=com.albasheq.albasheq" target="_blank">
+    <img src="https://github.com/abdo6400/abdo6400/assets/84652350/0ad8a2a9-1558-426e-92e6-28f1a0bcdad2" alt="proimg" style="width: 100%;">
 
   </a>
-    <a href="(https://play.google.com/store/apps/details?id=com.goldenmark.golden_mark)" target="_blank">
-   ![golenproimg](https://github.com/abdo6400/abdo6400/assets/84652350/205cd0db-c65d-407e-aad1-6b5797fc75b8)
+    <a href="https://play.google.com/store/apps/details?id=com.goldenmark.golden_mark" target="_blank">
+   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/205cd0db-c65d-407e-aad1-6b5797fc75b8" alt="golenproimg" style="width: 100%;">
   </a>
   
- <a href="(https://play.google.com/store/apps/details?id=com.sadad.sadad)" target="_blank">
-   ![sadadproimg](https://github.com/abdo6400/abdo6400/assets/84652350/e86f9519-8421-4f55-835b-4ac97cfe6d20)
+ <a href="https://play.google.com/store/apps/details?id=com.sadad.sadad" target="_blank">
+   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e86f9519-8421-4f55-835b-4ac97cfe6d20" alt="sadadproimg" style="width: 100%;">
   </a>
 </div>
+
 
 
 <br/><br/>
