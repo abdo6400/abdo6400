@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Amr!;" />
 </h1>
 
-<h3 align="center">A software developer | | mobile developer using flutter</h3>
+<h3 align="center">A Software engineer | |Mid-Senior Flutter Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working as **Freelancer**
  
- 🌱 I’m currently learning **.Net, FlutterFlow , AWS**
+ 🌱 I’m currently learning **.Net, FlutterFlow**
 
 💬 Ask me about **Flutter, Python, Firebase... or anything [here](https://github.com/abdo6400/abdo6400/issues)**
 
