@@ -53,9 +53,6 @@
 <h2 align="center">⚡ Skills ⚡</h2>
 <br>
 <div align=center>
-
-### Technologies & Skills
-
 - 🎯 Dart
 - 📱 Flutter
 - 🔥 Firebase
@@ -76,7 +73,6 @@
 - 🔄 BLoC / Provider State Management
 - 🌊 FlutterFlow
 - 🚀 Dio/HTTP
-
 </div>
 
 <h2 align="center">⚡ Projects⚡</h2>
