@@ -1,102 +1,76 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# 👋 Hi, I'm Abdulrahman Amr
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Amr!;" />
-</h1>
+🚀 Flutter & Full-Stack Developer  
+💡 Passionate about building scalable apps and clean architecture systems  
+📍 Based in Egypt  
 
-<h3 align="center">A Software engineer || Senior Flutter Developer</h3>
+---
 
-<br/>
+## 🧑‍💻 About Me
 
-<div align="center">
- 
- 🔭 I’m currently working as **Freelancer**
- 
- 🌱 I’m currently learning **.Net, FlutterFlow**
+- 🔭 Currently working on: POS System (Flutter + ASP.NET + React)
+- 📱 متخصص في Flutter وتطوير تطبيقات الموبايل
+- 🏗️ مهتم بـ Clean Architecture و scalable systems
+- ⚡ بحب أعمل UI/UX احترافي وسريع
 
-💬 Ask me about **Flutter, Python, Firebase... or anything [here](https://github.com/abdo6400/abdo6400/issues)**
+---
 
-⚡ Good advice **Do not stop learn (Always Search)**
+## 🛠️ Tech Stack
 
- </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/abdelrahman-amr-729400204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+### 📱 Mobile
+- Flutter
+- Dart
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,vscode,github,figma,git,ios,andriod" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+### 🌐 Frontend
+- React.js
+- HTML / CSS / JS
 
-<br/>
-<hr/>
+### 🧠 Backend
+- ASP.NET Core
+- REST APIs
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### 🗄️ Database
+- SQL Server
+- Firebase
 
-<hr/>
+### ⚙️ Tools
+- Git & GitHub
+- Firebase
+- Postman
+- Figma
 
-<hr/>
+---
 
-<h2 align="center">⚡ Skills ⚡</h2>
-<br>
-<div align=center>
-- 🎯 Dart
-- 📱 Flutter
-- 🔥 Firebase
-- 🗄️ SQL / Hive
-- 🌐 RESTful API
-- ☕ Java
-- 📚 Data Structures
-- 📊 GraphQL
-- 💡 Problem Solving
-- 🏛️ Clean Architecture
-- 🔄 Software Design Patterns
-- 🧠 Algorithms
-- 🔄 Object-Oriented Programming
-- 📬 Notifications
-- 🚀 CI/CD
-- 📝 Git/GitHub
-- 🗺️ Google Maps
-- 🔄 BLoC / Provider State Management
-- 🌊 FlutterFlow
-- 🚀 Dio/HTTP
-</div>
+## 🚀 Projects
 
-<h2 align="center">⚡ Projects⚡</h2>
-<br>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-content: center;">
-   <a href="https://play.google.com/store/apps/details?id=com.addustor.addustor_project" target="_blank">
-      <img src="https://github.com/abdo6400/abdo6400/assets/84652350/1a66480c-db35-4909-ad0a-6e423d232cd6" alt="proimg" style="width: 100%;">
-  </a>
-    <a href="https://play.google.com/store/apps/details?id=com.albasheq.albasheq" target="_blank">
-    <img src="https://github.com/abdo6400/abdo6400/assets/84652350/0ad8a2a9-1558-426e-92e6-28f1a0bcdad2" alt="proimg" style="width: 100%;">
+### 🛒 POS System
+> Full system for managing sales, products, and invoices
 
-  </a>
-    <a href="https://play.google.com/store/apps/details?id=com.goldenmark.golden_mark" target="_blank">
-   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/205cd0db-c65d-407e-aad1-6b5797fc75b8" alt="golenproimg" style="width: 100%;">
-  </a>
-  
- <a href="https://play.google.com/store/apps/details?id=com.sadad.sadad" target="_blank">
-   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e86f9519-8421-4f55-835b-4ac97cfe6d20" alt="sadadproimg" style="width: 100%;">
-  </a>
-   <a href="https://github.com/abdo6400/JamalaShoppingApp_using_flutter" target="_blank">
-   <img src="https://github.com/abdo6400/abdo6400/assets/84652350/e5de7a32-b106-4894-8663-2fe9df2a9def" alt="jamalaproimg" style="width: 100%;">
-  </a>
-</div>
+- Flutter (Cashier App)
+- React (Dashboard)
+- ASP.NET (Backend)
 
+---
 
+### 💼 Services App
+> App for managing services with dynamic pricing
 
-<br/><br/>
+- Multi-select services
+- Fixed & ranged pricing system
+- Custom form builder
+
+---
+
+### 📦 Custom Flutter Form System
+> Advanced dynamic form builder
+
+- Multi dropdown fields
+- File upload support
+- Localization ready
+
+---
+
+## 📊 GitHub Stats
+
+```bash
+# (Optional: use GitHub stats images)
